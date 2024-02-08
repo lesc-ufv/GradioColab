@@ -2,7 +2,7 @@
 
 Wiley Journal
 
-Authors: Ricardo Ferreira, Michael Canesche, Peter Jamieson, Omar P. Vilela Neto, and Jose A. M. Nacif
+**Authors:** Ricardo Ferreira, Michael Canesche, Peter Jamieson, Omar P. Vilela Neto, and Jose A. M. Nacif
 
 Examples and Tutorials on using Google Colab and Gradio to create Online Interactive Student Learning Modules
 
